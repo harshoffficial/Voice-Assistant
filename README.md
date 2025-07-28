@@ -56,10 +56,48 @@ The GUI is built using `CustomTkinter` and includes:
 
 ---
 
-## 🛠️ How to Run
+## 🗣️ Supported Commands
 
-### 🧾 Requirements
-Install the dependencies using:
+Command	Action
+-open notepad	Opens Notepad and writes to file
+-open wikipedia	Searches Wikipedia
+-open control panel	Opens Control Panel
+-take a screenshot	Captures and saves screenshot
+-play music	Plays a random song from folder
+-tell me a joke	Says a random joke
+-tell me news / news	Speaks 5 headlines from TechCrunch
+-extract phrases	Scrapes quotes from a website
+-play youtube	Plays video from YouTube
+-search google for	Opens Google search
+-send email	Sends email via voice
+-weather	Gets weather info by city
+-set reminder	Sets reminder after X minutes
+-power	Shutdown / Restart / Sleep
+-thanks or quit it	Exits the assistant
 
-```bash
-pip install -r requirements.txt
+Anything else will be handled by Gemini AI Chat 💬
+
+---
+
+## 🔐 API Keys Used
+
+-OpenWeatherMap API – for weather
+
+-NewsAPI – for tech news
+
+-Gemini API – for AI chat response
+
+-Make sure to replace these with your own API keys in the code.
+
+
+## 📦 To Do / Future Scope
+
+-Voice authentication
+
+-Continuous listening mode
+
+-Chat memory using local storage
+
+-Daily news briefing
+
+Better UI animations & themes
