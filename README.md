@@ -2,7 +2,10 @@
 
 A feature-rich Python-based voice assistant with a modern GUI built using `CustomTkinter`. It understands voice/text commands and performs a wide range of tasks — from searching the web, telling jokes, sending emails, giving weather updates, to chatting with Gemini AI.
 
-![GUI Screenshot] <img src="images/Screenshot.png"/><!-- Optional -->
+!GUI Screenshot 
+<p float="left">
+<img src="images/Screenshot.png"/>
+</p>
 
 ## ✨ Features
 
