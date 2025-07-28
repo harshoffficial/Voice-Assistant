@@ -60,22 +60,36 @@ The GUI is built using `CustomTkinter` and includes:
 
 Command	Action
 -open notepad	Opens Notepad and writes to file
+
 -open wikipedia	Searches Wikipedia
+
 -open control panel	Opens Control Panel
+
 -take a screenshot	Captures and saves screenshot
+
 -play music	Plays a random song from folder
+
 -tell me a joke	Says a random joke
+
 -tell me news / news	Speaks 5 headlines from TechCrunch
+
 -extract phrases	Scrapes quotes from a website
+
 -play youtube	Plays video from YouTube
+
 -search google for	Opens Google search
+
 -send email	Sends email via voice
+
 -weather	Gets weather info by city
+
 -set reminder	Sets reminder after X minutes
+
 -power	Shutdown / Restart / Sleep
+
 -thanks or quit it	Exits the assistant
 
-Anything else will be handled by Gemini AI Chat 💬
+-Anything else will be handled by Gemini AI Chat 💬
 
 ---
 
@@ -100,4 +114,4 @@ Anything else will be handled by Gemini AI Chat 💬
 
 -Daily news briefing
 
-Better UI animations & themes
+-Better UI animations & themes
